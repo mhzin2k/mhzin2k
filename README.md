@@ -11,17 +11,13 @@
 ![mhzin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhzin2k&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhzin2k&layout=compact&theme=github_dark)
 
-## I know a little about : 
-<div style="display: inline_block">
+## I know a little about : <div style="display: inline_block">
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 </div>
-
-##
-
 
 ## Contact :
 <div>
