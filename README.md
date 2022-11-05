@@ -4,10 +4,10 @@
   <a href="https://twitch.tv/mhzink">Twitch</a> |
   <a href="https://ayo.so/mhzin2k">Web</a>
 
+- Oi, Eu sou o Manoel, tenho 15 anos e amo programar.
+- Linguagens : Python
 
-Oi, Eu sou o Manoel, tenho 15 anos e amo programar.
-Linguagens  :  Python
-
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 ```p
 "Todos veem o que você parece ser. Mas poucos sabem o que você realmente é."
@@ -20,8 +20,3 @@ Linguagens  :  Python
 - <p align="center"> Hi, I’m @mhzin
 
 ---
-
-
-
-
-
