@@ -3,6 +3,8 @@
   <a href="https://discord.com/users/393712055934255106">Discord</a> |
   <a href="https://twitch.tv/mhzink">Twitch</a> |
   <a href="https://ayo.so/mhzin2k">Web</a>
+  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 - Oi, Eu sou o Manoel, tenho 15 anos e amo programar.
 - Linguagens : Python
