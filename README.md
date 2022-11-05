@@ -1,29 +1,27 @@
+<p align='center'>
+  <b>Oi 🤙, Eu sou o mhzin</b><br>
+  <a href="https://discord.com/users/393712055934255106">Discord</a> |
+  <a href="https://twitch.tv/mhzink">Twitch</a> |
+  <a href="https://ayo.so/mhzin2k">Web</a>
 
-# Hi, 🖖 I'm Manoel
 
-## Future Programmer
+Oi, Eu sou o Manoel, tenho 15 anos e amo programar.
+Linguagens  :  Python
 
-- Young man looking for programming knowledge 📚
 
-##### The art of programming is to organize and master complexity.
-<br>
+```p
+"Todos veem o que você parece ser. Mas poucos sabem o que você realmente é."
+                                                           —  Nicolau Maquiavel
 
-![mhzin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhzin2k&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhzin2k&layout=compact&theme=github_dark)
+```
 
-## I know a little about : 
-<div style="display: inline_block">
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-</div>
+---
 
-## Contact :
-<div>
-    <a href="https://discord.gg/zHuEk8PpK2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="https://www.github.com/mhzin2k" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://www.twitch.tv/mhzink" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-    
-</div>
+- <p align="center"> Hi, I’m @mhzin
+
+---
+
+
+
+
+
