@@ -11,7 +11,8 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-<b>"Todos veem o que você parece ser. Mas poucos sabem o que você realmente é."</b>
+<p align='center'>
+  <b>"Todos veem o que você parece ser. Mas poucos sabem o que você realmente é."</b>
                                                            <b> —  Nicolau Maquiavel</b>
 
 
