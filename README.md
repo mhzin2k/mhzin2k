@@ -13,9 +13,7 @@
 
 <p align='center'>
   <b>
-    ```p
-    "Todos veem o que você parece ser. Mas poucos sabem o que você realmente é."
-    ```
+    "Todos veem o que você parece ser. Mas poucos sabem o que você realmente é.
   </b>
                                                            <b> —  Nicolau Maquiavel</b>
 
