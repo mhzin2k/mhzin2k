@@ -11,7 +11,7 @@ mhzin = {
   "statuscode":200,
   "name":"Manoel",
   "age":15,
-  "main-langs":"python",
+  "main-langs":"python"
 }
 ```
 
