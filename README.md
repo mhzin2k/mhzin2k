@@ -8,10 +8,10 @@
 
 ```p
 mhzin = {
-  "statuscode": 200,
-  "name": "Manoel",
-  "main-langs":['py','C#'],
-  "age": 15
+	"statuscode": 200,
+	"name": "Manoel",
+	"mains-langs": ["Python","C#"],
+	"age": 15
 }
 ```
 
