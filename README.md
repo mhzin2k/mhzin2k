@@ -1,15 +1,11 @@
 <p align='center'>
   <b>Oi 🤙, Eu sou o mhzin</b><br>
-  <a href="https://discord.com/users/393712055934255106">Discord</a> |
-  <a href="https://twitch.tv/mhzink">Twitch</a> |
-  <a href="https://ayo.so/mhzin2k">Web</a>
   
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 ```py
 mhzin = {
 	"statuscode": 200,
-	"name": "Manoel",
 	"mains-langs": ["Python","C#"],
 	"age": 15
 }
