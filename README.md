@@ -18,6 +18,6 @@
 
 ---
 
-- <p align="center"> Hi, I’m @mhzin
+- <p align="center"> Hi 🤙, I’m @mhzin
 
 ---
