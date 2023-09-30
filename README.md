@@ -3,22 +3,21 @@
   
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-```py
-mhzin = {
-	"statuscode": 200,
-	"mains-langs": ["Python","C#"],
-	"age": 15
+```code
+
+{
+  "statuscode": 200,
+  "user-data": {
+    "name": "mhzin",
+    "age": 15,
+    "mains-lang": [".Net C#", "Python", "Javascript","..."]
+  }
 }
+
+
 ```
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-
-<p align='center'>
-  <b>
-    "Todos veem o que você parece ser. Mas poucos sabem o que você realmente é.
-  </b>
-                                                           <b> —  Nicolau Maquiavel</b>
-
 
 ---
 
