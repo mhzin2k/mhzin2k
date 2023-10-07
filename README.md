@@ -1,4 +1,4 @@
-<p align='center'>
+<p align='left'>
   <br>
   <samp>
     Hi 🤙
@@ -6,4 +6,4 @@
   </samp>
 </p>
 
-<img align='center' src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight2.gif" width="100"/>
+<img align='left' src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight2.gif" width="100"/>
