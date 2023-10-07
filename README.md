@@ -1,23 +1,9 @@
 <p align='center'>
-  <b>Oi 🤙, Eu sou o mhzin</b><br>
-  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <br>
+  <samp>
+    Hi 🤙
+    <br>I’m @mhzin<br>
+  </samp>
+</p>
 
-```code
-{
-  "statuscode": 200,
-  "user-data": {
-    "name": "mhzin",
-    "age": 16,
-    "mains-lang": [".Net C#", "Python", "Javascript","..."]
-  }
-}
-```
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-
----
-
-- <p align="center"> Hi 🤙, I’m @mhzin
-
----
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight2.gif" width="200"/>
