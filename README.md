@@ -11,7 +11,6 @@
 
   <div align='center'>
     - <code>🤓</code> I'm future dev
-    <br>
-    - <code>🧠</code> Studying full stack
+    <br> - <code>🧠</code> Studying full stack
   </div>
 </div>
