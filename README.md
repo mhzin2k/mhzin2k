@@ -8,4 +8,9 @@
       <br>I’m @mhzin<br>
     </samp>
   </p>
+
+  <div align='center'>
+    - <code>🤓</code> I'm future dev
+    - <code>🧠</code> Studying full stack
+  </div>
 </div>
