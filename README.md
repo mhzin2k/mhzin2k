@@ -6,4 +6,4 @@
   </samp>
 </p>
 
-<img align='center' src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight2.gif" width="200"/>
+<img align='center' src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight2.gif" width="100"/>
